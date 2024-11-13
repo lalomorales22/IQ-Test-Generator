@@ -2,7 +2,8 @@
 
 A modern web application that generates custom IQ test puzzles using Flask and Anthropic's Claude AI. The application creates interactive, SVG-based puzzles with varying complexity levels and types.
 
-![IQ Test Generator Preview](preview.png)
+<img width="1134" alt="Screenshot 2024-11-13 at 12 14 49 AM" src="https://github.com/user-attachments/assets/d4c69d39-f3c5-4e98-8272-c97f2f8ccc72">
+
 
 ## Features
 
